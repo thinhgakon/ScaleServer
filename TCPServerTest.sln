@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerTest", "TCPServerTest\TCPServerTest.csproj", "{44D95D35-018B-4C62-B3C6-CB2F9D8CD3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D95D35-018B-4C62-B3C6-CB2F9D8CD3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D95D35-018B-4C62-B3C6-CB2F9D8CD3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D95D35-018B-4C62-B3C6-CB2F9D8CD3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D95D35-018B-4C62-B3C6-CB2F9D8CD3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BFC23A-F009-4FEB-A44A-F7BFCA70E982}
+	EndGlobalSection
+EndGlobal
